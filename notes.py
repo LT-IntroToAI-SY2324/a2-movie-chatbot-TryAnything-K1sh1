@@ -65,6 +65,7 @@ for k in [1,2,3,4,5,6]:
 
 print("   string".strip())
 
+from logging import NOTSET
 from typing import List, Any 
 
 #type hints
